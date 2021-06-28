@@ -1,4 +1,14 @@
-### Hi there 👋
+# A little about me
+
+My name’s Alexander Draper, I’m a full-stack web developer dedicated to making fast and accessible web projects. You can see a little about me and my projects on [my personal website, alexanderdraper.com](https://alexanderdraper.com).
+
+I have a [fun new version of my website in progress](https://alex-os--alexanderdraper.netlify.app/) that you can check out as well.
+
+## Fun facts
+
+- 📖 My [reading list extension](https://github.com/alexpdraper/reading-list) is #1 on the Chrome Web Store
+- 🎹 I have a BFA in music composition and am ½ of [The Crystal Ships](https://thecrystalships.com/).
+- 👨‍👩‍👧 My wife Sarah and I had our first child, a beautiful baby daughter, at the beginning of 2021 (less than a year after we got our puppy 🐶)
 
 <!--
 **alexpdraper/alexpdraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
